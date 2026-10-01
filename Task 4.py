@@ -94,7 +94,7 @@ print("Optimal path: A -> B -> D -> 5")
 print("Pruned branch:", pruned_branches)
 
 
-Input/Output
+Input/Output:
 Mini-Max value of A: 5
 Best move for Player A: B
 Optimal path: A -> B -> D -> 5
